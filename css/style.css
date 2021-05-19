@@ -90,7 +90,7 @@ section h1::before {
     bottom: 0;
     left: 0;
     width: 100%;
-    animation: anim 25s linear infinite;
+    animation: ani 25s linear infinite;
 }
 
 .mosque::before {
